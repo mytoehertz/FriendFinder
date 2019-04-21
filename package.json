@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "app friend finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytoehertz/FriendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Juan Hernandez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mytoehertz/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mytoehertz/FriendFinder#readme"
+}
