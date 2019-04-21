@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(-180deg,
+      rgb(12, 8, 243),
+      rgb(49, 161, 21));
+    text-align: center;
+    font-family: "Lobster", cursive;
+  }
+
+  .logo {
+    transition: transform 0.2s;
+    /* Animation */
+    width: 300px;
+    height: 300px;
+  }
+
+  .logo:hover {
+    transform: scale(1.5);
+  }
+
+  .footer {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: black;
+  }
+
+  a:link {
+    color: black;
+  }
+
+  /* A link that has been visited */
+  a:visited {
+    color: black;
+  }
